@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="generator" content="Hugo 0.80.0" />
+<meta name="generator" content="Hugo 0.79.0" />
 
-<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 <link rel="alternate" type="application/rss&#43;xml" href="https://kubectl.docs.kubernetes.io/zh/faq/index.xml">
 
@@ -22,35 +22,22 @@
 <link rel="icon" type="image/png" href="/favicons/android-192x192.png" sizes="192x192">
 
 <title>FAQ | SIG CLI</title><meta property="og:title" content="FAQ" />
-<meta property="og:description" content="自定义 Kubernetes 配置" />
+<meta property="og:description" content="Kubectl 和 Kustomize 的文档" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://kubectl.docs.kubernetes.io/zh/faq/" />
 <meta property="og:site_name" content="SIG CLI" />
 <meta itemprop="name" content="FAQ">
-<meta itemprop="description" content="自定义 Kubernetes 配置">
+<meta itemprop="description" content="Kubectl 和 Kustomize 的文档">
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="FAQ"/>
-<meta name="twitter:description" content="自定义 Kubernetes 配置"/>
-
-
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-00000000-0', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
+<meta name="twitter:description" content="Kubectl 和 Kustomize 的文档"/>
 
 
 
 
 
-
-<link rel="preload" href="/scss/main.min.aae62c800e3989b7b86f60f95a532ae2acace7609172930b9971ee140697a4c8.css" as="style">
-<link href="/scss/main.min.aae62c800e3989b7b86f60f95a532ae2acace7609172930b9971ee140697a4c8.css" rel="stylesheet" integrity="">
+<link rel="preload" href="/scss/main.scss" as="style">
+<link href="/scss/main.scss" rel="stylesheet" integrity="">
 
 
 <script
@@ -104,7 +91,7 @@ if (!doNotTrack) {
 				
 				
 				
-				<a class="nav-link" href="/zh/api-reference/" ><span>API 参考</span></a>
+				<a class="nav-link" href="/zh/references/" ><span>参考</span></a>
 			</li>
 			
 			<li class="nav-item mr-4 mb-2 mb-lg-0">
@@ -164,7 +151,7 @@ if (!doNotTrack) {
   aria-label="站内搜索…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/offline-search-index.102224cb190562ccf2da0d4ad51a112b747c59f02bda30664f3d7d4432873ddde2b195ab98a85c37f6a80bdbb9d99df873d82cb4982f561889520de46d211992.json"
+  data-offline-search-index-json-src="/offline-search-index.7bbe6029a46321be1f333004e4a48c9c12e233663198d13918b54e7496012f5dd2ce50845def0393db84789a9bce7afbcef034c77df4c23cda778cefb0f72eb9.json"
   data-offline-search-base-href="/"
 >
 
@@ -194,7 +181,7 @@ if (!doNotTrack) {
   aria-label="站内搜索…"
   autocomplete="off"
   
-  data-offline-search-index-json-src="/offline-search-index.102224cb190562ccf2da0d4ad51a112b747c59f02bda30664f3d7d4432873ddde2b195ab98a85c37f6a80bdbb9d99df873d82cb4982f561889520de46d211992.json"
+  data-offline-search-index-json-src="/offline-search-index.7bbe6029a46321be1f333004e4a48c9c12e233663198d13918b54e7496012f5dd2ce50845def0393db84789a9bce7afbcef034c77df4c23cda778cefb0f72eb9.json"
   data-offline-search-base-href="/"
 >
 
@@ -244,10 +231,10 @@ if (!doNotTrack) {
 
 <ul class="td-sidebar-nav__section pr-md-3">
   <li class="td-sidebar-nav__section-title">
-    <a  href="/zh/faq/eschewedfeatures/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">Eschewed Features</a>
+    <a  href="/zh/faq/kubectl/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">Kubectl</a>
   </li>
   <ul>
-    <li class="collapse " id="zhfaqeschewedfeatures">
+    <li class="collapse " id="zhfaqkubectl">
       
       
       
@@ -259,8 +246,37 @@ if (!doNotTrack) {
       
       
       
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/zh/faq/kustomize/" class="align-left pl-0 pr-2 collapsed td-sidebar-link td-sidebar-link__section">Kustomize</a>
+  </li>
+  <ul>
+    <li class="collapse " id="zhfaqkustomize">
       
-      <a class="td-sidebar-link td-sidebar-link__page " id="m-zhfaqversioningpolicy" href="/zh/faq/versioningpolicy/">Versioning Policy</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-zhfaqkustomizeeschewedfeatures" href="/zh/faq/kustomize/eschewedfeatures/">Eschewed Features</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-zhfaqkustomizeversioningpolicy" href="/zh/faq/kustomize/versioningpolicy/">Versioning Policy</a>
+      
+      
+    </li>
+  </ul>
+</ul>
+
       
       
     </li>
@@ -301,13 +317,6 @@ if (!doNotTrack) {
 
 
 
-<nav id="TableOfContents">
-  <ul>
-    <li><a href="#security-file-foo-is-not-in-or-below-bar">security: file &lsquo;foo&rsquo; is not in or below &lsquo;bar&rsquo;</a></li>
-    <li><a href="#some-field-is-not-transformed-by-kustomize">Some field is not transformed by kustomize</a></li>
-  </ul>
-</nav>
-
 
 
           </div>
@@ -333,45 +342,7 @@ if (!doNotTrack) {
 <div class="td-content">
 	<h1>FAQ</h1>
 	
-	<h2 id="security-file-foo-is-not-in-or-below-bar">security: file &lsquo;foo&rsquo; is not in or below &lsquo;bar&rsquo;</h2>
-<p>v2.0 added a security check that prevents
-kustomizations from reading files outside their own
-directory root.</p>
-<p>This was meant to help protect the person inclined to
-download kustomization directories from the web and use
-them without inspection to control their production
-cluster
-(see <a href="https://github.com/kubernetes-sigs/kustomize/issues/693">#693</a>,
-<a href="https://github.com/kubernetes-sigs/kustomize/pull/700">#700</a>,
-<a href="https://github.com/kubernetes-sigs/kustomize/pull/995">#995</a> and
-<a href="https://github.com/kubernetes-sigs/kustomize/pull/998">#998</a>)</p>
-<p>Resources (including configmap and secret generators)
-can <em>still be shared</em> via the recommended best practice
-of placing them in a directory with their own
-kustomization file, and referring to this directory as a
-<a href="/kustomize/api-reference/glossary#base"><code>base</code></a> from any kustomization that
-wants to use it.  This encourages modularity and
-relocatability.</p>
-<p>To disable this, use v3, and the <code>load_restrictor</code> flag:</p>
-<pre><code>kustomize build --load_restrictor none $target
-</code></pre><h2 id="some-field-is-not-transformed-by-kustomize">Some field is not transformed by kustomize</h2>
-<p>Example: <a href="https://github.com/kubernetes-sigs/kustomize/issues/1319">#1319</a>, <a href="https://github.com/kubernetes-sigs/kustomize/issues/1322">#1322</a>, <a href="https://github.com/kubernetes-sigs/kustomize/issues/1347">#1347</a> and etc.</p>
-<p>The fields transformed by kustomize is configured explicitly in <a href="https://github.com/kubernetes-sigs/kustomize/tree/master/api/konfig/builtinpluginconsts/defaultconfig.go">defaultconfig</a>. The configuration itself can be customized by including <code>configurations</code> in <code>kustomization.yaml</code>, e.g.</p>
-<div class="highlight"><pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#204a87;font-weight:bold">apiVersion</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000">kustomize.config.k8s.io/v1beta1</span><span style="color:#f8f8f8;text-decoration:underline">
-</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">kind</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000">Kustomization</span><span style="color:#f8f8f8;text-decoration:underline">
-</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">configurations</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline">
-</span><span style="color:#f8f8f8;text-decoration:underline"></span>- <span style="color:#000">kustomizeconfig.yaml</span><span style="color:#f8f8f8;text-decoration:underline">
-</span></code></pre></div><p>The configuration directive allows customization of the following transformers:</p>
-<div class="highlight"><pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#204a87;font-weight:bold">commonAnnotations</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000;font-weight:bold">[]</span><span style="color:#f8f8f8;text-decoration:underline">
-</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">commonLabels</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000;font-weight:bold">[]</span><span style="color:#f8f8f8;text-decoration:underline">
-</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">nameprefix</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000;font-weight:bold">[]</span><span style="color:#f8f8f8;text-decoration:underline">
-</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">namespace</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000;font-weight:bold">[]</span><span style="color:#f8f8f8;text-decoration:underline">
-</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">varreference</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000;font-weight:bold">[]</span><span style="color:#f8f8f8;text-decoration:underline">
-</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">namereference</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000;font-weight:bold">[]</span><span style="color:#f8f8f8;text-decoration:underline">
-</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">images</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000;font-weight:bold">[]</span><span style="color:#f8f8f8;text-decoration:underline">
-</span><span style="color:#f8f8f8;text-decoration:underline"></span><span style="color:#204a87;font-weight:bold">replicas</span><span style="color:#000;font-weight:bold">:</span><span style="color:#f8f8f8;text-decoration:underline"> </span><span style="color:#000;font-weight:bold">[]</span><span style="color:#f8f8f8;text-decoration:underline">
-</span></code></pre></div><p>To persist the changes to default configuration, submit a PR like <a href="https://github.com/kubernetes-sigs/kustomize/pull/1338">#1338</a>, <a href="https://github.com/kubernetes-sigs/kustomize/pull/1348">#1348</a> and etc.</p>
-
+	
         <div class="section-index">
     
     
@@ -380,23 +351,27 @@ relocatability.</p>
     <hr class="panel-line">
         
             
+        
+            
+        
+            
+        
+            
                 <div class="entry">
                     <h5>
-                        <a href="/zh/faq/eschewedfeatures/">Eschewed Features</a>
+                        <a href="/zh/faq/kubectl/">Kubectl</a>
                     </h5>
-                    <p>Eschewed Features</p>
+                    <p>Frequently asked questions on Kubectl</p>
                 </div>
             
         
             
                 <div class="entry">
                     <h5>
-                        <a href="/zh/faq/versioningpolicy/">Versioning Policy</a>
+                        <a href="/zh/faq/kustomize/">Kustomize</a>
                     </h5>
-                    <p></p>
+                    <p>Frequently asked questions on Kustomize</p>
                 </div>
-            
-        
             
         
     
