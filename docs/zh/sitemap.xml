@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/annotation/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,6 +19,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/apply/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,6 +34,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/auth/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -46,6 +49,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/autoscale/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,6 +64,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/installation/kubectl/binaries/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,6 +79,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/create/configmap/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -88,6 +94,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/container_debugging/container_logs/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -102,6 +109,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/cp/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -116,6 +124,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/create/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -130,6 +139,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/delete/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -144,6 +154,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/create/deployment/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -158,6 +169,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/describe/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -172,6 +184,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/diff/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -186,6 +199,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/app_deployment/diffing_local_and_remote_resources/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -200,6 +214,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/edit/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -214,6 +229,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/exec/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -228,6 +244,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/expose/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -242,6 +259,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/get/options/field/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,6 +274,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/get/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -270,6 +289,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/config_management/introduction/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -284,6 +304,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/introduction/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -298,6 +319,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/contributing/kubectl/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -312,6 +334,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/introduction/kubectl/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -326,6 +349,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/installation/kubectl/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -340,6 +364,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -354,6 +379,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/kustomize/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -368,6 +394,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/label/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -382,6 +409,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/logs/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -396,6 +424,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/example/multi_base/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -410,6 +439,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/create/namespace/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -424,6 +454,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/patch/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -438,6 +469,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/extending_kubectl/plugin_mechanism/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -452,6 +484,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/port-forward/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -466,6 +499,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/proxy/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -480,6 +514,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/create/auth_resources/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -494,6 +529,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/run/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -508,6 +544,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/scale/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -522,6 +559,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/create/secret/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -536,6 +574,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/resource_printing/summary/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -550,6 +589,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/get/options/wide/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -564,6 +604,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -578,7 +619,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/installation/</loc>
-    <lastmod>2020-11-11T21:42:40+05:30</lastmod>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -593,7 +634,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/</loc>
-    <lastmod>2020-11-11T21:42:40+05:30</lastmod>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -608,6 +649,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/app_deployment/accessing_multiple_clusters/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -622,6 +664,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/config_management/apply/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -636,6 +679,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/config_management/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -650,6 +694,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/container_debugging/copying_container_files/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -664,6 +709,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/get/options/custom_columns/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -678,6 +724,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/get/default/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -692,6 +739,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/extending_kubectl/discovering_plugins/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -706,6 +754,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/installation/kustomize/source/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -720,6 +769,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/installation/kubectl/homebrew/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -734,6 +784,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/example/inline_patch/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -748,6 +799,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/contributing/kustomize/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -762,6 +814,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/introduction/kustomize/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -776,6 +829,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/installation/kustomize/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -790,6 +844,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -804,6 +859,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/resource_printing/raw/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -818,6 +874,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/get/raw/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -832,6 +889,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/architecture/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -846,6 +904,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/installation/kubectl/chocolatey/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -860,6 +919,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/installation/kustomize/docker/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -874,7 +934,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/contributing/docs/</loc>
-    <lastmod>2020-11-11T21:42:40+05:30</lastmod>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -889,6 +949,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/container_debugging/executing_a_command_in_a_container/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -903,6 +964,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/resource_printing/fields/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -917,6 +979,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/installation/kustomize/homebrew/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -931,6 +994,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/get/options/labels/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -945,6 +1009,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/app_deployment/publishing_bases/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -959,6 +1024,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/resource_printing/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -973,6 +1039,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/introduction/resources_controllers/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -987,6 +1054,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/config_management/secrets_configmaps/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1001,6 +1069,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/installation/kustomize/binaries/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1015,6 +1084,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/installation/kustomize/chocolatey/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1029,6 +1099,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/container_debugging/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1043,6 +1114,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/config_management/container_images/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1057,6 +1129,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/resource_printing/describe/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1071,6 +1144,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/get/options/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1085,6 +1159,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/container_debugging/port_forward_to_pods/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1099,6 +1174,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/get/options/show_labels/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1113,6 +1189,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/app_deployment/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1127,6 +1204,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/config_management/namespaces_names/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1141,6 +1219,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/container_debugging/proxying_traffic_to_services/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1155,6 +1234,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/resource_printing/queries_and_options/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1169,6 +1249,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/get/options/show_kind/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1183,6 +1264,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/extending_kubectl/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1197,6 +1279,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/config_management/labels_annotations/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1211,6 +1294,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kubectl/get/options/watch/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1225,6 +1309,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/extending_kustomize/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1239,6 +1324,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/resource_printing/cluster_information/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1253,6 +1339,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/example/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1267,6 +1354,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/architecture/field_merge_semantics/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1281,6 +1369,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/config_management/bespoke/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1295,6 +1384,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/config_management/offtheshelf/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1309,6 +1399,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/contributing/kustomize/bugs/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1323,6 +1414,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/config_management/components/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1337,6 +1429,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/contributing/kustomize/community/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1366,6 +1459,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/contributing/kustomize/features/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1380,6 +1474,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/contributing/kustomize/howitworks/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1394,6 +1489,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/contributing/kustomize/mac/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1408,6 +1504,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/contributing/kustomize/windows/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1422,6 +1519,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/faq/kustomize/eschewedfeatures/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1436,6 +1534,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/faq/kustomize/versioningpolicy/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1450,6 +1549,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/glossary/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1464,6 +1564,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1603,6 +1704,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/bases/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1617,6 +1719,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/commonannotations/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1631,6 +1734,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/commonlabels/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1645,6 +1749,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/components/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1659,6 +1764,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/configmapgenerator/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1673,6 +1779,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/crds/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1687,6 +1794,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/extending_kustomize/execpluginguidedexample/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1701,7 +1809,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/faq/</loc>
-    <lastmod>2020-11-11T21:42:40+05:30</lastmod>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1716,6 +1824,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/generatoroptions/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1730,6 +1839,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/extending_kustomize/goplugincaveats/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1744,6 +1854,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/extending_kustomize/gopluginguidedexample/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1758,6 +1869,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/images/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1772,6 +1884,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/faq/kubectl/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1786,6 +1899,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/faq/kustomize/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1800,6 +1914,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/nameprefix/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1814,6 +1929,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/namespace/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1828,6 +1944,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/namesuffix/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1842,6 +1959,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/patches/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1856,6 +1974,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/patchesjson6902/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1870,6 +1989,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/patchesstrategicmerge/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1884,6 +2004,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/replicas/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1913,11 +2034,12 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/secretegenerator/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/</loc>
-    <lastmod>2020-11-11T21:42:40+05:30</lastmod>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1932,6 +2054,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/references/kustomize/kustomization/vars/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1946,6 +2069,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/guides/extending_kustomize/builtins/</loc>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1975,7 +2099,7 @@
   
   <url>
     <loc>https://kubectl.docs.kubernetes.io/zh/contributing/</loc>
-    <lastmod>2020-11-11T21:42:40+05:30</lastmod>
+    <lastmod>2021-03-03T11:02:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
